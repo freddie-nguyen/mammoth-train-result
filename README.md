@@ -9,4 +9,4 @@
 | mammoth_results_joint_10t | Joint train (upper bound) trên 10 tasks | Tú | Oct 4 |
 | mammoth_results_joint_20t | Joint train (upper bound) trên 20 tasks | Tú | Oct 4 |
 | mammoth_results_er_buf200_10t | | | |
-| mammoth_results_der_buf200_10t | | | |
+| mammoth_results_derpp_buf200_10t | | | |
